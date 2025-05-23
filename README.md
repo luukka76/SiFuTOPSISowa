@@ -18,6 +18,6 @@ findings show that by doing this we are able to reflect risk attitudes and recei
 
 Usage:
 
-Mainfile.m 
+mainfile.m 
 This is the main example file which shows how to load the data, 
 set the parameters and how to get rankings for the alternatives.
